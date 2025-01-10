@@ -15,8 +15,8 @@
                         | review_text | varchar(40)  |
                         +-------------+--------------+
 
-*/
-
+*/ 
+ 
 SELECT 
     review_id,
     product_id,
